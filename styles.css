@@ -316,3 +316,10 @@ footer{background:linear-gradient(110deg,#39452f,#4c5b3b);color:#fff7e9;padding:
   .contact h2{font-size:29px}
   .foot{align-items:flex-start;flex-direction:column}
 }
+.hero-visual .jar {
+    width: min(91%, 510px);
+    height: 530px;
+    object-fit: contain;
+    image-rendering: auto;
+    z-index: 3;
+}
